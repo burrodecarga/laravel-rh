@@ -1,2 +1,8 @@
 *.sqlite
 *.sqlite-journal
+
+_cacache
+_locks
+
+node_modules
+
